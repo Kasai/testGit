@@ -38,10 +38,10 @@ Partial Class Form1
         'ListBox1
         '
         Me.ListBox1.FormattingEnabled = True
-        Me.ListBox1.Items.AddRange(New Object() {"A", "B", "C", "D", "E"})
-        Me.ListBox1.Location = New System.Drawing.Point(12, 12)
+        Me.ListBox1.Items.AddRange(New Object() {"Made a change", "I'm Sorry I cannot do that Dave!"})
+        Me.ListBox1.Location = New System.Drawing.Point(2, 12)
         Me.ListBox1.Name = "ListBox1"
-        Me.ListBox1.Size = New System.Drawing.Size(120, 95)
+        Me.ListBox1.Size = New System.Drawing.Size(156, 95)
         Me.ListBox1.TabIndex = 1
         '
         'Form1
